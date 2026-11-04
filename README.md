@@ -74,10 +74,10 @@ AI-Usage-Impact-Analysis/
 
 | | |
 |---|---|
-| ![AI tools](images/02_ai_tools.png) | ![AI purpose](images/03_ai_purpose.png) |
-| ![Usage vs productivity](images/19_usage_vs_productivity.png) | ![Usage vs time saved](images/20_usage_vs_time_saved.png) |
-| ![Correlation heatmap](images/21_correlation_heatmap.png) | ![Students vs professionals](images/22_user_type_comparison.png) |
-| ![Productivity by tool](images/23_productivity_by_tool.png) | ![Paid vs free](images/25_paid_vs_free.png) |
+| ![AI tools](Images/02_ai_tools.png) | ![AI purpose](Images/03_ai_purpose.png) |
+| ![Usage vs productivity](images/19_usage_vs_productivity.png) | ![Usage vs time saved](Images/20_usage_vs_time_saved.png) |
+| ![Correlation heatmap](Images/21_correlation_heatmap.png) | ![Students vs professionals](Images/22_user_type_comparison.png) |
+| ![Productivity by tool](Images/23_productivity_by_tool.png) | ![Paid vs free](Images/25_paid_vs_free.png) |
 
 ## Limitations
 
