@@ -75,7 +75,7 @@ AI-Usage-Impact-Analysis/
 | | |
 |---|---|
 | ![AI tools](Images/02_ai_tools.png) | ![AI purpose](Images/03_ai_purpose.png) |
-| ![Usage vs productivity](images/19_usage_vs_productivity.png) | ![Usage vs time saved](Images/20_usage_vs_time_saved.png) |
+| ![Usage vs productivity](Images/19_usage_vs_productivity.png) | ![Usage vs time saved](Images/20_usage_vs_time_saved.png) |
 | ![Correlation heatmap](Images/21_correlation_heatmap.png) | ![Students vs professionals](Images/22_user_type_comparison.png) |
 | ![Productivity by tool](Images/23_productivity_by_tool.png) | ![Paid vs free](Images/25_paid_vs_free.png) |
 
